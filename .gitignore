@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+app/src/main/assets/bootstrap-*.zip
+app/src/main/assets/server-bundle/
+gradle/wrapper/gradle-wrapper.jar
+/.kotlin/
